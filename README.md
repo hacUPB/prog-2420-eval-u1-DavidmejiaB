@@ -74,3 +74,6 @@ Se carga la información especifica del usuario incluyendo prefencias en el escr
 [CPU] (https://concepto.de/cpu/)
 [Partes_del_hardware](https://www.ufv.es/cetys/blog/partes-del-hardware/)
 [Software](https://www.euroinnova.com/blog/que-es-el-software-y-sus-componentes-basicos)
+
+# Sistemas númericos
+[Sistemas_númericos_prog](https://drive.google.com/file/d/1K0N98kh9mi_VvvrgV5avidAC00Dqjpa0/view?usp=sharing)
