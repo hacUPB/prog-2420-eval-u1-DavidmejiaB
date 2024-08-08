@@ -1,0 +1,8 @@
+Iniciar 
+    leer velocidad 
+    leer tiempo en minutos
+    para cada velocidad desde v1 hasta n  
+        definir relación como velocidad/60
+    fin para
+    multiplicar relación por tiempo en minutos
+fin
