@@ -1,0 +1,13 @@
+Inicio 
+definir edad como 0
+Leer año de nacimiento 
+Leer mes de nacimiento 
+Leer dia de nacimiento 
+leer año actual
+leer mes actual 
+leer dia actual
+restar año actual con año de nacimiento= años 
+restar mes actual con mes de nacimiento 
+si mes actual< mes de nacimiento entonces años-1= edad actual
+edad= 0+ edad actual
+imprimir edad actual
