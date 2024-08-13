@@ -3,27 +3,27 @@
 # ¿Cuál es la función principal de cada componente investigado?
 ## hardware:
 ### Tarjeta madre:
- Se trata de una placa de circuito impresoprincipal de un computador, en la cual se conectan los demas componentes de este mismo, logrando asi crear un conjunto completo a partir de la tarjeta madre, de manera que esta sirve como metodo de comunicación entre cada una de las piezas del dispositivo.
+Se trata de una placa de circuito impreso principal de un computador, en la cual se conectan los demás componentes de este mismo, logrando así crear un conjunto completo a partir de la tarjeta madre, de manera que esta sirve como método de comunicación entre cada una de las piezas del dispositivo.
  ![Tarjeta_madre](https://www.google.com/imgres?q=tarjeta%20madre&imgurl=https%3A%2F%2Fwww.asus.com%2Fmedia%2Fodin%2Fwebsites%2FMX%2FNews%2Fuaungcveygcntorl%2Fextreme.jpg&imgrefurl=https%3A%2F%2Fwww.asus.com%2Flatin%2Fnews%2Fcczsckt71skg0icn%2F&docid=Jbfd7Zx9fXwYWM&tbnid=0ocGdufxXhhsGM&vet=12ahUKEwiRxv-N6sKHAxVURTABHcVxDfYQM3oECGIQAA..i&w=800&h=608&hcb=2&ved=2ahUKEwiRxv-N6sKHAxVURTABHcVxDfYQM3oECGIQAA)
  ### Procesador:
-Este es considerado el cerebro de la computadora, debido a que es el componente mediante el cual se procesan y ejecutan las acciones del sistema y depediendo de la calidad de este es la velocidad de ejecución de los programas.
+Este es considerado el cerebro de la computadora, debido a que es el componente mediante el cual se procesan y ejecutan las acciones del sistema y dependiendo de la calidad de este es la velocidad de ejecución de los programas.
 ![Procesador](https://www.adslzone.net/app/uploads-adslzone.net/2016/07/Intel.jpg)
  ### Tarjeta grafica:
- Es un componente dedicado a al procesamiento de información relacionada tanto de imágen como de vídeo.
+Es un componente dedicado a al procesamiento de información relacionada tanto de imagen como de vídeo.
  ![Tarjeta_gráfica](https://acf.geeknetic.es/imgri/imagenes/tutoriales/definiciones/2020/6/Tarjeta-grafica-zr3q.jpg?f=webp)
  ### Almacenamiento:
- Se encarga de almacenar datos de largo plazo, aplicaciones y sistema operativo con el fin de tener permanente acceso a estos, el almacenamietno de un sistema se puede llevar a cabo bien sea desde un disco duro o mediante una unidad de disco solido.
+Se encarga de almacenar datos de largo plazo, aplicaciones y sistema operativo con el fin de tener permanente acceso a estos, el almacenamiento de un sistema se puede llevar a cabo bien sea desde un disco duro o mediante una unidad de disco solido.
  ![Almacenamiento](https://i.blogs.es/36dcee/almacenamientoap/450_1000.jpg)
 ### Fuente de alimentación:
-Este es un elemento totalmente impresindible para el funcionamiento de la computadora, debido a que abastece de energía a todos los componentes logrando asi que funcionen en conjunto todos y cada uno. Este mecanismo se encarga de transformar la corriente alterna en corriente continua.
+Este es un elemento totalmente imprescindible para el funcionamiento de la computadora, debido a que abastece de energía a todos los componentes logrando así que funcionen en conjunto todos y cada uno. Este mecanismo se encarga de transformar la corriente alterna en corriente continua.
 ![Fuente_alimentación](image.png)
 ## Software: 
 ### Sistema operativo:
-Es el conjunto de programas de un sistema informático que gestiona los recurrsos del hardware, por ejemplo se encarga de la ejecución de aplicaciones , asignando los recuersos necesarios para la ejecución de estos.
+Es el conjunto de programas de un sistema informático que gestiona los recursos del hardware, por ejemplo, se encarga de la ejecución de aplicaciones, asignando los recursos necesarios para la ejecución de estos.
 ### Software de seguridad:
-Son los encargados de proteger la información contenida en las computadoras de forma remota, de manera que lo protege de los ciberpeligros presentes, logrando asi proteger información clasificada de posibles ataques.
+Son los encargados de proteger la información contenida en las computadoras de forma remota, de manera que lo protege de los Ciber peligros presentes, logrando así proteger información clasificada de posibles ataques.
 ### Software de comunicación:
-Se utiliza para proporcionar acceso remoto a los sistemas e intercambiar archivos y mensajes en diferentes modalidades, tanto de manera escrita, como audivisual entre diferentes computadoras y usuarios.
+Se utiliza para proporcionar acceso remoto a los sistemas e intercambiar archivos y mensajes en diferentes modalidades, tanto de manera escrita, como audiovisual entre diferentes computadoras y usuarios.
 ### Software de base de datos:
 Estos software tienen como función principal la clasificación y almacenamiento de datos, logrando asi organizarlos, procurando su fácil acceso y recuperación en caso extremos. 
 ### Software de  productividad:
