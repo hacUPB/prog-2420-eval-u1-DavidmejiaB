@@ -11,3 +11,4 @@ restar mes actual con mes de nacimiento
 si mes actual< mes de nacimiento entonces años-1= edad actual
 edad= 0+ edad actual
 imprimir edad actual
+fin
